@@ -24,3 +24,21 @@ The GTZAN Genre Collection dataset is used for this project, which contains:
 
 The dataset is publicly available on platforms like Kaggle.
 
+## Results
+
+| Model                               | F1-Score | Accuracy |
+|-------------------------------------|----------|----------|
+| XGBoost                             | 0.740    | 0.745    |
+| Stochastic Gradient Descent         | 0.636    | 0.660    |
+| MLP Classifier                      | 0.857    | 0.858    |
+| Support Vector Machine              | 0.758    | 0.762    |
+| Random Forest                       | 0.811    | 0.814    |
+| Light Gradient Boosting Machine (LGBM) | 0.903 | 0.903    |
+| Deep Neural Network (DNN)           | 0.923    | 0.933    |
+
+## Future Scope
+
+- **Fine-grained Genre Classification**: Classifying sub-genres and styles of music.
+- **Multi-modal Approaches**: Integrating other features like lyrics or metadata for improved accuracy.
+- **Real-time Classification**: Implementing real-time genre classification for music streaming applications.
+- **Ethical Considerations**: Addressing privacy and data biases in music recommendation systems.
