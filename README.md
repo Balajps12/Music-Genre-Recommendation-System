@@ -56,10 +56,4 @@ To run this project locally, ensure you have the following dependencies installe
 - Python 3.x
 - Required Python libraries (listed in `requirements.txt`)
 
-### Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/MusicSense.git
-cd MusicSense
